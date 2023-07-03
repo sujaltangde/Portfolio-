@@ -1,0 +1,46 @@
+[
+    {
+      "id"    : 1 ,
+      "image" : "./images/weatherapp.png",
+       "demo" : "https://weatherapp-d3ecd.web.app" ,
+       "code" : "https://github.com/sujaltangde/WeatherApp" ,
+       "name" : "Weather App"
+    },
+    {
+      "id"    : 2 ,
+      "image" : "./images/Gpt3LandPage.png",
+       "demo" : "https://gpt-3-000.netlify.app" ,
+       "code" : "https://github.com/sujaltangde/GPT-3-landing-page" ,
+       "name" : "GPT3 Landing Page"
+    },
+    {
+      "id"    : 3 ,
+      "image" : "./images/QuizApp.png",
+       "demo" : "https://sujaltangde.github.io/QuizApp" ,
+       "code" : "https://github.com/sujaltangde/QuizApp" ,
+       "name" : "Quiz App"
+    },
+    {
+      "id"    : 4 ,
+      "image" : "./images/BasicBank.png",
+       "demo" : "https://noa-bank.web.app" ,
+       "code" : "https://github.com/sujaltangde/SPARKS-Project-Noa-Bank" ,
+       "name" : "Basic Bank"
+    },
+    {
+      "id"    : 5 ,
+      "image" : "./images/MoviesList.png",
+       "demo" : "https://learning-793f0.web.app" ,
+       "code" : "https://github.com/sujaltangde/MoviesList" ,
+       "name" : "Movies List"
+    },
+    {
+      "id"    : 6 ,
+      "image" : "./images/Calculator.png",
+       "demo" : "https://calc-101.netlify.app" ,
+       "code" : "https://github.com/sujaltangde/LGMVIP-Web/tree/main/TASK-3" ,
+       "name" : "Calculator"
+    }   
+]
+
+
